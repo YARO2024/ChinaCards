@@ -1,0 +1,304 @@
+Uri: https://c.statcounter.com/11356311/0/d795857d/0/
+File Name: C:\Downloaded Web Sites\www.seterra.com\11356311\0\d795857d\0\index.htm
+Content Type: image/png
+
+Uri: https://c.statcounter.com/11440214/0/7376bb9a/1/
+File Name: C:\Downloaded Web Sites\www.seterra.com\11440214\0\7376bb9a\1\index.htm
+Content Type: image/gif
+
+Uri: https://www.seterra.com/
+File Name: C:\Downloaded Web Sites\www.seterra.com\index.htm
+Content Type: text/html
+
+Uri: https://www.seterra.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.seterra.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.seterra.com/css/dosis-font.css
+File Name: C:\Downloaded Web Sites\www.seterra.com\css\dosis-font.css
+Content Type: text/css
+
+Uri: https://www.seterra.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.seterra.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.seterra.com/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\www.seterra.com\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://www.seterra.com/de/
+File Name: C:\Downloaded Web Sites\www.seterra.com\de\index.htm
+Content Type: text/html
+
+Uri: https://www.seterra.com/es/
+File Name: C:\Downloaded Web Sites\www.seterra.com\es\index.htm
+Content Type: text/html
+
+Uri: https://www.seterra.com/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\www.seterra.com\fonts\themify.ttf
+Content Type: binary/octet-stream
+
+Uri: https://www.seterra.com/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\www.seterra.com\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://www.seterra.com/fr/
+File Name: C:\Downloaded Web Sites\www.seterra.com\fr\index.htm
+Content Type: text/html
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-af.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-af.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-ar.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-ar.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-cs.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-cs.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-da.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-da.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-de.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-de.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-el.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-el.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-en.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-en.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-es.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-es.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-et.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-et.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-fi.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-fi.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-fr.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-fr.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-ga.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-ga.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-hi.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-hi.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-hr.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-hr.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-hu.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-hu.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-id.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-id.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-is.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-is.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-it.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-it.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-ja.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-ja.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-ko.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-ko.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-lt.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-lt.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-lv.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-lv.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-nb.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-nb.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-nl.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-nl.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-pl.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-pl.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-pt.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-pt.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-ro.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-ro.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-ru.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-ru.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-si.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-si.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-sk.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-sk.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-sl.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-sl.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-sm.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-sm.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-sq.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-sq.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-sr.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-sr.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-sv.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-sv.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-th.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-th.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-tr.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-tr.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-uk.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-uk.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-uz.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-uz.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/images/system/flags/langlistflags/flag-zh.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\images\system\flags\langlistflags\flag-zh.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/africa.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\africa.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/anatomy.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\anatomy.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/asia.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\asia.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/australia.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\australia.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/europe2.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\europe2.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/facebook.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\facebook.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/gg-header.jpg
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\gg-header.jpg
+Content Type: image/jpeg
+
+Uri: https://www.seterra.com/img/gg-logo.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\gg-logo.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/instagram.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\instagram.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/love-seterra.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\love-seterra.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/north-america.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\north-america.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/phones.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\phones.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/seterra.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\seterra.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/south-america.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\south-america.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/sv_.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\sv_.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/twitter.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\twitter.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/us_.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\us_.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/img/world.png
+File Name: C:\Downloaded Web Sites\www.seterra.com\img\world.png
+Content Type: image/png
+
+Uri: https://www.seterra.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.seterra.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.seterra.com/js/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\www.seterra.com\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://www.seterra.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.seterra.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.seterra.com/js/scrolling-nav.js
+File Name: C:\Downloaded Web Sites\www.seterra.com\js\scrolling-nav.js
+Content Type: application/javascript
+
+Uri: https://www.seterra.com/js/validator.js
+File Name: C:\Downloaded Web Sites\www.seterra.com\js\validator.js
+Content Type: application/javascript
+
+Uri: https://www.seterra.com/sv/
+File Name: C:\Downloaded Web Sites\www.seterra.com\sv\index.htm
+Content Type: text/html
+
